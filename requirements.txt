@@ -4,4 +4,4 @@ pandas==2.2.3
 numpy==2.3.4
 gunicorn==21.2.0
 scikit-learn==1.7.2
-request
+requests==2.31.0 
